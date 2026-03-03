@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name:       WooCommerce Delivery Slots by Iconic [Flexible Shipping by Octolize]
+ * Plugin Name:       WooCommerce Delivery Slots by Kadence [Flexible Shipping by Octolize]
  * Plugin URI:        https://iconicwp.com/products/{plugin-name}/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-flexible-shipping-by-octolize
- * Description:       Compatibility between Delivery Slots by Iconic and Flexible Shipping by Octolize.
- * Author:            Iconic
- * Author URI:        https://iconicwp.com/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-flexible-shipping-by-octolize
+ * Description:       Compatibility between Delivery Slots by Kadence and Flexible Shipping by Octolize.
+ * Author:            Kadence
+ * Author URI:        https://www.kadencewp.com/
  * Text Domain:       iconic-compat-{54494}
  * Domain Path:       /languages
  * Version:           0.1.0
- * GitHub Plugin URI: iconicwp/iconic-wds-compat-flexible-shipping-by-octolize
+ * GitHub Plugin URI: stellarwp/kadence-wds-compat-flexible-shipping-by-octolize
  */
 
 /**
